@@ -1,5 +1,3 @@
-
-
 object Modulo10RecursivCheckdigitCalculator {
 
     /**
